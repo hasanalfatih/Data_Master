@@ -1,2 +1,1 @@
-# data_latihan
-data latihan data science
+Kumpulan data yang dapat digunakan pada praktek pengolahan data
